@@ -7,7 +7,7 @@ title:  "Publications"
 
 Preprints & forthcoming
 ------
-Snijders, A., Simpson-Kent, I. L., Roozenbeek, J., van Duijvenvoorde, A. C., Blankenstein, N., & **Ma, I**. Understanding Susceptibility to Misinformation in Young Adulthood. (submitted) [[~~preprint~~]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp2025JN.pdf)
+Snijders, A., Simpson-Kent, I. L., Roozenbeek, J., van Duijvenvoorde, A. C., Blankenstein, N., & **Ma, I**. Understanding Susceptibility to Misinformation in Young Adulthood. (submitted) [[preprint]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp2025JN.pdf)
 
 **Ma, I.**, Phaneuf, C., van Opheusden, B., Ma, W.J., Hartley, C.A. The component processes of complex planning follow distinct developmental trajectories. (in revision) [[~~preprint~~]](https://psyarxiv.com/d62rw)
 
