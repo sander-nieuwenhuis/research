@@ -7,9 +7,12 @@ title:  "Publications"
 
 Preprints & forthcoming
 ------
-Snijders, A., Simpson-Kent, I. L., Roozenbeek, J., van Duijvenvoorde, A. C., Blankenstein, N., & **Ma, I**. Understanding Susceptibility to Misinformation in Young Adulthood. (submitted) [[preprint]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp2025JN.pdf)
+Johnson, P. A., Nieuwenhuis, S., Mejías, J., & Urai, A. E. (in preparation). A dynamical systems model of arousal-driven behavioural state transitions.
 
-**Ma, I.**, Phaneuf, C., van Opheusden, B., Ma, W.J., Hartley, C.A. The component processes of complex planning follow distinct developmental trajectories. (in revision) [[~~preprint~~]](https://psyarxiv.com/d62rw)
+Tromp, J., Nieuwenhuis, S., Cohen, J. D., & Jongkees, B. J. (submitted). A normative account of the trade-off between cognitive stability and flexibility. [[preprint]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp2025PsyrXiv.pdf)
+
+Kolnes, M. & Nieuwenhuis, S. (submitted). Arousal does not enhance the dominant spatial scope of attention. [[preprint]](https://osf.io/preprints/psyarxiv/3xeyb_v1)
+
 
 Published
 ------
