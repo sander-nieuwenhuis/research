@@ -1,36 +1,18 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+permalink: /research/
+layout: single
 author_profile: true
+title:  "Publications"
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Preprints & forthcoming
+------
+Snijders, A., Simpson-Kent, I. L., Roozenbeek, J., van Duijvenvoorde, A. C., Blankenstein, N., & **Ma, I**. Understanding Susceptibility to Misinformation in Young Adulthood. (submitted) [[~~preprint~~]](https://doi.org/10.31234/osf.io/b2f6m_v1)
 
-{% include base_path %}
+**Ma, I.**, Phaneuf, C., van Opheusden, B., Ma, W.J., Hartley, C.A. The component processes of complex planning follow distinct developmental trajectories. (in revision) [[~~preprint~~]](https://psyarxiv.com/d62rw)
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+Published
+------
+Holton, E., van Opheusden, B., Grohn, J., Ward, H., Grogan, J. P., Lockwood, P., **Ma, I.**, Ma, W.J., & Manohar, S. G. (2025). Disentangling the component processes in complex planning impairments following ventromedial prefrontal lesions. Journal of Neuroscience, e1814242025 [[~~paper~~]](https://doi.org/10.1523/JNEUROSCI.1814-24.2025)
 
-
-
+Topel, S., **Ma, I.**, van Duijvenvoorde, A. C., van Steenbergen, H., & de Bruijn, E. R. (2024). Adapting to uncertainty: The role of anxiety and fear of negative evaluation in learning in social and non-social contexts. Journal of Affective Disorders, 363, 310-319. [[~~paper~~]](https://doi.org/10.1016/j.jad.2024.07.066)
