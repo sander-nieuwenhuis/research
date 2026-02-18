@@ -277,6 +277,6 @@ Wagenmakers, E.J., & Nieuwenhuis, S. (2005). Damasio’s error? De somatic marke
 
 Nieuwenhuis, S. (2005). Foutendetectie in de menselijke hersenen. Neuropraxis, nr. 3, 59-63. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisNeuropraxis.pdf)
 
-Talsma, D., Slagter, H.A., & Nieuwenhuis, S. (2004). Het eerste Nederlandse event-related potentials kwartetspel. [[kwartetspel]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/AlbertKokKwartet.pdf) Ter gelegenheid van het emeritaat van prof. Albert Kok.
+Talsma, D., Slagter, H.A., & Nieuwenhuis, S. (2004). Het eerste Nederlandse event-related potentials kwartetspel. Ter gelegenheid van het emeritaat van prof. Albert Kok.
 
 Nieuwenhuis, S. & Olsthoorn, N. (1999). Stamboom van de Nederlandse Psychonomie. [[poster]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/stamboom.pdf)
