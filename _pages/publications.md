@@ -245,3 +245,12 @@ Holroyd C.B.*, Nieuwenhuis, S. *, Yeung, N., Nystrom, L.E., Mars, R.B., Coles, M
 Van der Veen, F.M., Nieuwenhuis, S., Crone, E.A., & Van der Molen, M.W. (2004). Cardiac and electro-cortical responses to performance feedback reflect different aspects of feedback processing. In: Errors, Conflicts and the Brain. Current Opinions on Performance Monitoring (eds. M. Ullsperger & M. Falkenstein), pp. 63-70. Leipzig: MPI of Cognitive Neuroscience. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/VanderVeenNieuwenhuisCroneVanderMolen.pdf)
 
 Nieuwenhuis, S., Yeung, N., & Cohen, J.D. (2004). Stimulus modality, perceptual overlap, and the Go/NoGo N2. Psychophysiology, 41, 157-160. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisYeungCohen2004.pdf)
+
+Holroyd, C.B., Nieuwenhuis, S., Yeung, N., & Cohen, J.D. (2003). Errors in reward prediction are reflected in the event-related brain potential. Neuroreport, 14, 2481-2484. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/HolroydNieuwenhuisYeungCohen.pdf)
+
+Ridderinkhof, K.R., Nieuwenhuis, S., & Bashore, T.R. (2003). Errors are foreshadowed in brain potentials associated with action monitoring in cingulate cortex. Neuroscience Letters, 348, 1-4. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/RidderinkhofNieuwenhuisBashore_NeurosciLett.pdf)
+
+Nieuwenhuis, S., Yeung, N., Van den Wildenberg, W. & Ridderinkhof, K.R. (2003). Electrophysiological correlates of anterior cingulate function in a Go/NoGo task: Effects of response conflict and trial-type frequency. Cognitive, Affective & Behavioral Neuroscience, 3, 17-26. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/nieuwenhuis_et_al_2003_CABN.pdf)
+
+Nieuwenhuis, S., Yeung, N., & Cohen, J.D. (2003). A computational simulation of electrophysiological markers of anterior cingulate activity in a Go/NoGo task. Technical Report 2003/1, Center for the Study of Brain, Mind, and Behavior, Princeton University. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAlTechReport.pdf)
+
