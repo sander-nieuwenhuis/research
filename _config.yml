@@ -23,7 +23,7 @@ repository               : "research/sander-nieuwenhuis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sander.png"
   name             : "Sander Nieuwenhuis"
   pronouns         : # example: "she/her"  
   bio              : "Professor of Cognitive Neuroscience"
