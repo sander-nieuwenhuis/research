@@ -260,3 +260,8 @@ Nieuwenhuis, S., Ridderinkhof, K.R., Talsma, D., Coles, M.G.H., Holroyd, C.B., K
 
 Nieuwenhuis, S., & Monsell, S. (2002). Residual costs in task-switching: Testing the failure-to-engage hypothesis. Psychonomic Bulletin & Review, 9, 86-92. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/nieuwenhuis__monsell.pdf)
 
+Nieuwenhuis, S., Ridderinkhof, K.R., Blom, J., Band, G.P.H., & Kok (2001). Error-related brain potentials are differentially related to awareness of response errors: Evidence from an antisaccade task. Psychophysiology, 38, 752-760. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/nieuwenhuis_et_al_2001.pdf)
+
+Nieuwenhuis, S., Ridderinkhof, K.R., De Jong, R., Kok, A., & Van der Molen, M.W. (2000). Inhibitory inefficiency and failures of intention activation: Age-related decline in the control of saccadic eye movements. Psychology and Aging, 15, 635-647. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/nieuwenhuis_et_al_2000.pdf)
+
+Lorist, M..M., Klein, M., Nieuwenhuis, S., De Jong, R., Mulder, G., & Meijman, T.F. (2000). Mental fatigue and task control: Planning and preparation. Psychophysiology, 37, 614-625. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/lorist_et_al.pdf)
