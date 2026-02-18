@@ -8,7 +8,7 @@ title:  "Publications"
 Preprints & forthcoming
 ------
 Johnson, P. A., Nieuwenhuis, S., Mejías, J., & Urai, A. E. (in preparation). A dynamical systems model of arousal-driven behavioural state transitions.
-
+3
 Tromp, J., Nieuwenhuis, S., Cohen, J. D., & Jongkees, B. J. (submitted). A normative account of the trade-off between cognitive stability and flexibility. [[preprint]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp2025PsyrXiv.pdf)
 
 Kolnes, M. & Nieuwenhuis, S. (submitted). Arousal does not enhance the dominant spatial scope of attention. [[preprint]](https://osf.io/preprints/psyarxiv/3xeyb_v1)
@@ -253,4 +253,10 @@ Ridderinkhof, K.R., Nieuwenhuis, S., & Bashore, T.R. (2003). Errors are foreshad
 Nieuwenhuis, S., Yeung, N., Van den Wildenberg, W. & Ridderinkhof, K.R. (2003). Electrophysiological correlates of anterior cingulate function in a Go/NoGo task: Effects of response conflict and trial-type frequency. Cognitive, Affective & Behavioral Neuroscience, 3, 17-26. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/nieuwenhuis_et_al_2003_CABN.pdf)
 
 Nieuwenhuis, S., Yeung, N., & Cohen, J.D. (2003). A computational simulation of electrophysiological markers of anterior cingulate activity in a Go/NoGo task. Technical Report 2003/1, Center for the Study of Brain, Mind, and Behavior, Princeton University. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAlTechReport.pdf)
+
+Holroyd, C.B., Coles, M.G.H., & Nieuwenhuis, S. (2002). Medial prefrontal cortex and error potentials. Science, 296, 1610-1611. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/holroyd_et_al_science_letter.pdf)
+
+Nieuwenhuis, S., Ridderinkhof, K.R., Talsma, D., Coles, M.G.H., Holroyd, C.B., Kok, A., & Van der Molen (2002). A computational account of altered error processing in older age: Dopamine and the error-related negativity. Cognitive, Affective & Behavioral Neuroscience, 2, 19-36. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/nieuwenhuis_et_al_2002.pdf)
+
+Nieuwenhuis, S., & Monsell, S. (2002). Residual costs in task-switching: Testing the failure-to-engage hypothesis. Psychonomic Bulletin & Review, 9, 86-92. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/nieuwenhuis__monsell.pdf)
 
