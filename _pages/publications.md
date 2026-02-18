@@ -69,3 +69,13 @@ Harsay, H.A., Cohen, M.X., Spaan, M., Weeda, W.D., Nieuwenhuis, S., & Ridderinkh
 
 van den Brink, R.L., Nieuwenhuis, S., van Boxtel, G.J.M., van Luijtelaar, G., Eilander, H.J., & Wijnen, V.J.M. (2018). Task-free spectral EEG dynamics track and predict patient recovery from severe acquired brain injury. NeuroImage: Clinical, 17, 43-52. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/vandenBrink_NI-Clinical.pdf)
 
+Ásgeirsson, Á.G. & Nieuwenhuis, S. (2017). No arousal-biased competition in focused visuospatial attention. Cognition, 168, 191-204. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/AsgeirssonNieuwenhuis_Cognition.pdf)
+
+Tona, K.D., Keuken, M.C., de Rover, M., Lakke, E., Forstmann, B.U., Nieuwenhuis, S., & van Osch, M.J.P. (2017). In vivo visualization of the locus coeruleus in humans: Quantifying the test-retest reliability. Brain Structure and Function, 222, 4203-4217. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tona_BSF.pdf)
+
+Warren, C.M., Wilson, R.C., van der Wee, N.J., Giltay, E.J., van Noorden, M.S., Cohen, J.D., & Nieuwenhuis, S. (2017). The effect of atomoxetine on random and directed exploration in humans. PLoS ONE, 12: e0176034. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Warren2017_PLoSONE.pdf)
+
+de Gee, J.W., Colizoli, O., Kloosterman, N., Knapen, T., Nieuwenhuis, S., & Donner, T.H. (2017). Dynamic modulation of decision biases by brainstem arousal systems. eLife, 6: e23232. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/deGee2017-eLife.pdf)
+
+Warren, C.M., van den Brink, R.L., Nieuwenhuis, S., & Bosch, J.A. (2017). Norepinephrine transporter blocker atomoxetine increases salivary alpha amylase. Psychoneuroendocrinology, 78, 233-236. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Warren_PNEC.pdf)
+
