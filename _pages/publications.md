@@ -154,7 +154,7 @@ Jepma, M., Deinum, J., Asplund, C.L., Rombouts, S.A., Tamsma, J.T., Tjeerdema, N
 
 Nieuwenhuis, S. (2011). Learning, the P3, and the locus coeruleus-norepinephrine system. In: R. Mars, J. Sallet, M. Rushworth, and N. Yeung (Eds.) Neural Basis of Motivational and Cognitive Control. Oxford University Press, p. 209-222. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Nieuwenhuis_LCP3_chapter.pdf)
 
-Jepma, M., & Nieuwenhuis, S. (2011). Pupil diameter predicts changes in the exploration-exploitation trade-off: Evidence for the adaptive gain theory. Journal of Cognitive Neuroscience, 23, 1587-1596. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/JepmaNieuwenhuis_JoCN.pdf)[[supplementary material]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/SupplementalInformation_JoCN.pdf)
+Jepma, M., & Nieuwenhuis, S. (2011). Pupil diameter predicts changes in the exploration-exploitation trade-off: Evidence for the adaptive gain theory. Journal of Cognitive Neuroscience, 23, 1587-1596. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/JepmaNieuwenhuis_JoCN.pdf)[[supplementary material]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/SupplementalInformation.pdf)
 
 Samara, Z., Elzinga, B.M., Slagter, H.A., & Nieuwenhuis, S. (2011). Do horizontal saccadic eye movements increase interhemispheric coherence? Investigation of a hypothesized neural mechanism underlying EMDR. Frontiers in Psychiatry, 2:4. [[manuscript]](http://www.frontiersin.org/neuropsychiatric_imaging_and_stimulation/10.3389/fpsyt.2011.00004/abstract)
 
