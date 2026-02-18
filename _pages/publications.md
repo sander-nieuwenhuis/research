@@ -124,3 +124,14 @@ van den Brink, R.L. Wynn, S., & Nieuwenhuis, S. (2014). Post-error slowing as a 
 Brown, S., van Steenbergen, H., Kedar, T., & Nieuwenhuis, S. (2014). Effects of arousal on cognitive control: Empirical tests of the conflict-modulated Hebbian-learning hypothesis. Frontiers in Human Neuroscience, 8:23. [[manuscript]](http://www.frontiersin.org/Journal/10.3389/fnhum.2014.00023/abstract)
 
 Van Nunspeet, F., Ellemers, N., Derks, B., & Nieuwenhuis, S. (2014). Moral concerns increase attention and response monitoring during IAT performance: ERP evidence. Social Cognitive and Affective Neuroscience, 9, 141-149. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/vanNunspeet_SCAN.pdf)
+
+Scheepers, D., Derks, B., Nieuwenhuis, S., Lelieveld, G.-J., van Nunspeet, F., Rombouts, S.A., & de Rover, M. (2013). The neural correlates of in-group and self-face perception: Is there overlap for high identifiers? Frontiers in Human Neuroscience, 7:528. [[manuscript]](http://www.frontiersin.org/human_neuroscience/10.3389/fnhum.2013.00528/abstract)
+
+Colzato, L.S., de Rover, M., van den Wildenberg, W.P.M., & Nieuwenhuis, S. (2013). Genetic marker of norepinephrine synthesis predicts individual differences in post-error slowing: A pilot study. Neuropsychologia, 51, 2600- 2604. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Colzato_PES.pdf)
+
+Nieuwenhuis, S. & de Kleijn, R. (2013). The impact of alertness on cognitive control. Journal of Experimental Psychology: Human Perception and Performance, 39, 1797-1801. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisDeKleijn_JEPHPP.pdf)
+
+Donner, T.H.. & Nieuwenhuis, S. (2013). Brain-wide gain modulation: the rich get richer. Nature Neuroscience, 16, 989-990. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/DonnerNieuwenhuis2013NN.pdf)
+
+Nieuwenhuis, S., Elzinga, B.M., Ras, P., Berends, F., Duijs, P, Samara, Z., & Slagter, H.A. (2013). Bilateral saccadic eye movements and tactile stimulation, but not auditory stimulation, enhance memory retrieval. Brain and Cognition, 81, 52-56. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAl_Bilateral.pdf)
+
