@@ -136,7 +136,7 @@ Nieuwenhuis, S., Elzinga, B.M., Ras, P., Berends, F., Duijs, P, Samara, Z., & Sl
 
 Dutilh, G., van Ravenzwaaij, D., Nieuwenhuis, S., van der Maas, H.L., Forstmann, B.U., & Wagenmakers, E.-J. (2012). How to measure post-error slowing: A confound and a simple solution. Journal of Mathematical Psychology, 56, 208-216. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Dutilh_PES.pdf)
 
-Nieuwenhuis, S., Jepma, M., & Wagenmakers, E.-J. Temporal expectation may affect the onset, not the rate, of evidence accumulation [electronic response to Rohenkohl, Cravo, Wyart, & Nobre (2012). Temporal expectation improves the quality of sensory information. Journal of Neuroscience, 32, 8424-8428] [[pdf including response to letter of Rohenkohl and colleagues]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/response_to_rohenkohl)[[link to J Neurosci page]](http://www.jneurosci.org/content/32/24/8424.long/reply#jneuro_el_109541)
+Nieuwenhuis, S., Jepma, M., & Wagenmakers, E.-J. Temporal expectation may affect the onset, not the rate, of evidence accumulation [electronic response to Rohenkohl, Cravo, Wyart, & Nobre (2012). Temporal expectation improves the quality of sensory information. Journal of Neuroscience, 32, 8424-8428] [[pdf including response to letter of Rohenkohl and colleagues]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/response_to_rohenkohl.pdf)
 
 Brown, S., van Steenbergen, H., Band, G.P., de Rover, M., & Nieuwenhuis, S. (2012). Functional significance of the emotion-related late positive potential. Frontiers in Human Neuroscience, 6:33. [[manuscript]](http://www.frontiersin.org/human_neuroscience/10.3389/fnhum.2012.00033/abstract)
 
