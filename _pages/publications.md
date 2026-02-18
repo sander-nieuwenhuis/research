@@ -53,3 +53,19 @@ van den Brink, R.L., Murphy, P.R., Desender, K., de Ru, N., & Nieuwenhuis, S. (2
 Tona, K.D., Revers, H., Verkuil, B., & Nieuwenhuis, S. (2020). Noradrenergic regulation of cognitive flexibility: no effects of stress, transcutaneous vagus nerve stimulation and atomoxetine on task-switching. Journal of Cognitive Neuroscience, 32, 1881-1895. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tona_2020_JOCN.pdf)
 
 
+Ásgeirsson, Á.G. & Nieuwenhuis, S. (2019). Effects of arousal on biased competition in attention and short-term memory. Attention, Perception, & Psychophysics, 81, 1901-1912. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/AsgeirssonNieuwenhuis_APP.pdf)
+
+Warren, C.M., Tona, K.D., Ouwerkerk, L., van Paridon, J., Poletiek, F., van Steenbergen, H., Bosch, J.A., & Nieuwenhuis, S. (2019). The neuromodulatory and hormonal effects of transcutaneous vagus nerve stimulation as evidenced by salivary alpha amylase, salivary cortisol, pupil diameter, and the P3 event-related potential. Brain Stimulation, 12, 635-642. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Warren_BrainStimulation.pdf)
+
+Tona, K.D., van Osch, M.J.P., Nieuwenhuis, S., & Keuken, M.C. (2019). Visualizing the human locus coeruleus in vivo at 7 Tesla MRI. PLoS ONE, 14: e0209842. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tona_PLOSONE.pdf)
+
+Jepma, M., Brown, S.B., Murphy, P.R, Koelewijn, S.C., de Vries, B., van den Maagdenberg, A.M., & Nieuwenhuis, S. (2018). Noradrenergic and cholinergic modulation of belief updating. Journal of Cognitive Neuroscience, 30, 1803-1820. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Jepma_etal_JoCN_BeliefUpdating.pdf)
+
+van den Brink, R.L., Nieuwenhuis, S. , & Donner, T.H. (2018). Amplification and suppression of distinct brain-wide functional networks by catecholamines. Journal of Neuroscience, 38, 7476-7491. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/vandenBrink2018_JN.pdf)
+
+Shine, J.M., van den Brink, R.L., Hernaus, D., Nieuwenhuis, S., & Poldrack, R.A. (2018). Catecholaminergic manipulation alters dynamic network topology across cognitive states. Network Neuroscience, 2, 381-396. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Shine_NN.pdf)
+
+Harsay, H.A., Cohen, M.X., Spaan, M., Weeda, W.D., Nieuwenhuis, S., & Ridderinkhof, K.R. (2018). Error awareness and motivational significance: Shifts in networks centering on anterior insula co-vary with error blindness and pupil dilation. Behavioural Brain Research, 355, 24-35. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/HarsayBBR.pdf)
+
+van den Brink, R.L., Nieuwenhuis, S., van Boxtel, G.J.M., van Luijtelaar, G., Eilander, H.J., & Wijnen, V.J.M. (2018). Task-free spectral EEG dynamics track and predict patient recovery from severe acquired brain injury. NeuroImage: Clinical, 17, 43-52. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/vandenBrink_NI-Clinical.pdf)
+
