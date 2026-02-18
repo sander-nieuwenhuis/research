@@ -145,3 +145,22 @@ Jepma, M., Verdonschot, R.G., van Steenbergen, H., Rombouts, S.A., & Nieuwenhuis
 Jepma, M., Wagenmakers, E.-J., & Nieuwenhuis, S. (2012). Temporal expectation and information processing: A model-based analysis. Cognition, 122, 426-441. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Jepma_Cognition.pdf)
 
 De Rover, M., Brown, S.B., Boot, N., Hajcak, G., van Noorden, M.S., van der Wee, N.J., & Nieuwenhuis, S. (2012). Beta receptor-mediated modulation of the late positive potential in humans. Psychopharmacology, 219, 971-979. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/deRover_Psychopharmacol.pdf)
+
+Nieuwenhuis, S., Forstmann, B.U., & Wagenmakers, E.-J. (2011). Erroneous analyses of interactions in neuroscience: A problem of significance. Nature Neuroscience, 14, 1105-1107. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAl_NN_Perspective.pdf)
+
+Nieuwenhuis, S., & Donner, T.H. (2011). The visual attention network untangled. Nature Neuroscience, 14, 542-543. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisDonner2011NewsViews.pdf)
+
+Jepma, M., Deinum, J., Asplund, C.L., Rombouts, S.A., Tamsma, J.T., Tjeerdema, N., Spape, M.M., Garland, E.M., Robertson, D., Lenders, J.W., & Nieuwenhuis, S. (2011). Neurocognitive function in dopamine-beta-hydroxylase deficiency. Neuropsychopharmacology, 36, 1608-1619. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Jepma_NPP.pdf) [[supplementary material]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Jepma_NPP_SOM.pdf)
+
+Nieuwenhuis, S. (2011). Learning, the P3, and the locus coeruleus-norepinephrine system. In: R. Mars, J. Sallet, M. Rushworth, and N. Yeung (Eds.) Neural Basis of Motivational and Cognitive Control. Oxford University Press, p. 209-222. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Nieuwenhuis_LCP3_chapter.pdf)
+
+Jepma, M., & Nieuwenhuis, S. (2011). Pupil diameter predicts changes in the exploration-exploitation trade-off: Evidence for the adaptive gain theory. Journal of Cognitive Neuroscience, 23, 1587-1596. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/JepmaNieuwenhuis_JoCN.pdf)[[supplementary material]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/SupplementalInformation_JoCN.pdf)
+
+Samara, Z., Elzinga, B.M., Slagter, H.A., & Nieuwenhuis, S. (2011). Do horizontal saccadic eye movements increase interhemispheric coherence? Investigation of a hypothesized neural mechanism underlying EMDR. Frontiers in Psychiatry, 2:4. [[manuscript]](http://www.frontiersin.org/neuropsychiatric_imaging_and_stimulation/10.3389/fpsyt.2011.00004/abstract)
+
+Nieuwenhuis, S., & de Kleijn, R. (2011). Consciousness of targets during the attentional blink: A gradual or all-or-none dimension? Attention, Perception, & Psychophysics, 73, 364-373. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Nieuwenhuis_DeKleijn_APP.pdf)
+
+Nieuwenhuis, S., de Geus, E.J., & Aston-Jones, G. (2011). The anatomical and functional relationship between the P3 and autonomic components of the orienting response. Psychophysiology, 48, 162-175. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisDeGeusAstonJonesPsychophysiology.pdf)
+
+Nieuwenhuis, S., & Jepma, M. (2011). Investigating the role of the noradrenergic system in human cognition. In T. Robbins, M. Delgado, & E. Phelps (Eds.), Decision making. Attention & Performance, Vol. XXIII. Oxford: Oxford University Press, pp. 367-385. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisJepmaLC_Chapter.pdf)
+
