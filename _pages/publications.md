@@ -99,3 +99,22 @@ Tona, K.D., Murphy, P.R., Brown, S.B., & Nieuwenhuis, S. (2016). The accessory s
 Warren, C.M., Murphy, P.R., & Nieuwenhuis, S. (2016). Cognitive control, dynamic salience and the imperative toward computational accounts of neuromodulatory function. Behavioral and Brain Sciences, 39, e227. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Warren_BBS_commentary.pdf)
 
 Brown, S.B., Slagter, H.A., van Noorden, M.S., Giltay, E.J., van der Wee, N.J., & Nieuwenhuis, S. (2016). Effects of clonidine and scopolamine on multiple target detection in rapid serial visual presentation. Psychopharmacology, 233, 341-350. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Brown_2016_PP.pdf)
+
+Brown, S.B., van der Wee, N.J., Giltay, E.J., van Noorden, M.S., & Nieuwenhuis, S. (2015). Noradrenergic and cholinergic modulation of late ERP responses to deviant stimuli. Psychophysiology, 52, 1620-1631. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Brown2015_Psychophysiology.pdf)
+
+Boonstra, E., de Kleijn, R, Colzato, L.S., Alkemade, A., Forstmann, B.U., & Nieuwenhuis, S. (2015). Neurotransmitters as food supplements: the effects of GABA on brain and behavior. Frontiers in Psychology, 6:1520. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Boonstra_Frontiers2015.pdf)
+
+Sellaro, R., van Leusden, J.W., Tona, K.D., Verkuil, B., Nieuwenhuis, S., & Colzato, L.S. (2015). Transcutaneous vagus nerve stimulation (tVNS) enhances post-error slowing. Journal of Cognitive Neuroscience, 27, 2126-2132. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Sellaro_JoCN.pdf)
+
+de Rover, M., Brown, S.B., Band, G.P., Giltay, E.J., van Noorden, M.S., van der Wee, N.J., & Nieuwenhuis, S. (2015). Beta receptor-mediated modulation of the oddball P3 but not error-related ERP components in humans. Psychopharmacology, 232, 3161-3172. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/deRover2015_Psychopharmacol.pdf)
+
+Warren, C.M., Nieuwenhuis, S., & Donner, T.H. (2015). Perceptual choice boosts network stability: Effect of neuromodulation? Trends in Cognitive Sciences, 19, 362-364. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Warren_TICS.pdf)
+
+van Steenbergen, H., Band, G.P., Hommel, B., Rombouts, S.A., & Nieuwenhuis, S. (2015). Hedonic hotspots regulate cingulate-driven adaptation to cognitive demands. Cerebral Cortex, 25, 1746-1756. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/VanSteenbergen_CerebCort.pdf)
+
+van Nunspeet, F., Derks, B., Ellemers, N., & Nieuwenhuis, S. (2015). Moral impression management: Evaluation by an ingroup member during a moral IAT enhances perceptual attention and conflict- and response-monitoring. Social Psychological and Personality Science, 6, 183-192. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/vanNunspeet_SPPS.pdf)
+
+Brown, S.B., Tona, K.D., van Noorden, M.S., Giltay, E.J., van der Wee, N.J., & Nieuwenhuis, S. (2015). Noradrenergic and cholinergic effects on speed and sensitivity measures of phasic alerting. Behavioral Neuroscience, 129, 42-49. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Brown_BehavioralNeuroscience.pdf)
+
+Matzke, D., Nieuwenhuis, S., van Rijn, H., Slagter, H.A., van der Molen, M.W., & Wagenmakers, E.-J. (2015). The effect of horizontal eye movements on free recall: A preregistered adversarial collaboration. Journal of Experimental Psychology: General, 144, e1-e15. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Matzke_JEPG.pdf)
+
