@@ -12,7 +12,7 @@ main:
     url: "https://sander-nieuwenhuis.github.io/research/publications/"
 
   - title: "CV"
-    url: /cv/
+    url: "https://sander-nieuwenhuis.github.io/research/cv/"
     
   # - title: "CV"
   #   url: /cv-json/
