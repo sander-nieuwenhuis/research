@@ -200,3 +200,9 @@ Slagter, H.A., Lutz, A., Greischar, L.L., Francis, A.D., Nieuwenhuis, S., Davis,
 
 Yeung, N., Bogacz, R., Holroyd, C.B., Nieuwenhuis, S., & Cohen, J.D. (2007). Theta phase-resetting and the error-related negativity. Psychophysiology, 44, 39-49. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/YeungPsychophys.pdf)
 
+Hajcak, G., & Nieuwenhuis, S. (2006). Reappraisal modulates the electrocortical response to unpleasant pictures. Cognitive, Affective & Behavioral Neuroscience, 6, 291-297. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/HajcakNieuwenhuis-CABN.pdf)
+
+Nieuwenhuis, S., Stins, J.F., Posthuma, D., Polderman, T.J.C., Boomsma, D.I., & De Geus, E.J. (2006). Accounting for sequential trial effects in the flanker task: Conflict adaptation or associative priming? Memory & Cognition, 34, 1260-1272. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAl_MC.pdf)
+
+Olivers, C.N.L., & Nieuwenhuis, S. (2006). The beneficial effects of additional task load, positive affect, and instruction on the attentional blink. Journal of Experimental Psychology: Human Perception and Performance, 32, 364-379. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/OliversNieuwenhuisJEPHPP.pdf)
+
