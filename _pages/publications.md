@@ -269,7 +269,7 @@ Lorist, M..M., Klein, M., Nieuwenhuis, S., De Jong, R., Mulder, G., & Meijman, T
 
 Dutch publications
 ------
-Nieuwenhuis, S. (2013). Het brein: een bron van onzekerheid. Inaugural lecture (oratie), 6 September 2013.[[booklet]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Oratie_gedrukt.pdf)
+Nieuwenhuis, S. (2013). Het brein: een bron van onzekerheid. Inaugural lecture (oratie), 6 September 2013. [[booklet]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Oratie_gedrukt.pdf)
 
 van Nunspeet, F., Derks, B., Ellemers, N., & Nieuwenhuis, S. (2012). Willen, denken, doen: Een ERP-onderzoek naar de invloed van morele motieven op sociale categorisatie in een impliciete associatietest. In M. Stick, M. Baas, L. van Dillen, R. Dotsch, D. Lakens, & M. de Vries (Eds.) Jaarboek Sociale Psychologie 2012. Groningen: ASPO Pers.
 
