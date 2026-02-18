@@ -79,3 +79,23 @@ de Gee, J.W., Colizoli, O., Kloosterman, N., Knapen, T., Nieuwenhuis, S., & Donn
 
 Warren, C.M., van den Brink, R.L., Nieuwenhuis, S., & Bosch, J.A. (2017). Norepinephrine transporter blocker atomoxetine increases salivary alpha amylase. Psychoneuroendocrinology, 78, 233-236. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Warren_PNEC.pdf)
 
+
+Murphy, P.R., Boonstra, E., & Nieuwenhuis, S. (2016). Global gain modulation generates time-dependent urgency during perceptual choice in humans. Nature Communications, 7, 13526. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Murphy_NatComm.pdf)
+
+Jepma, M., Murphy, P., Nassar, M.R., Rangel-Gomez, M., Meeter, M., & Nieuwenhuis, S. (2016). Catecholaminergic regulation of learning rate in a dynamic environment. PLoS Computational Biology 12: e1005171. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Jepma_PLoSCB.pdf)
+
+van den Brink, R.L., Murphy, P.R., & Nieuwenhuis, S. (2016). Pupil diameter tracks lapses of attention. PLoS ONE 11: e0165274. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/vandenBrink_PLoSONE.pdf)
+
+van den Brink, R.L., Pfeffer, T., Warren, C.M., Murphy, P.R., Tona, K.D. van der Wee, N.J., Giltay, E.J., van Noorden, M.S., Rombouts, S.A., Donner, T.H., & Nieuwenhuis, S. (2016). Catecholaminergic neuromodulation shapes intrinsic MRI functional connectivity in the human brain. Journal of Neuroscience, 36, 7865-7876. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/vandenBrink_2016_JN.pdf)
+
+Naber, M., Brown, S.B., Vedder, A., & Nieuwenhuis, S. (2016). Speed and lateral inhibition of stimulus processing contribute to individual differences in Stroop-task performance. Frontiers in Psychology, 7:822. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Naber_2016_Frontiers.pdf)
+
+Warren, C.M., Eldar, E., van den Brink, R.L., Tona, K.D., van der Wee, N.J., Giltay, E.J., van Noorden, M.S., Bosch, J.A., Wilson, R.C., Cohen, J.D., & Nieuwenhuis, S. (2016). Catecholamine-mediated increases in gain enhance the precision of cortical representations. Journal of Neuroscience, 36, 5699-5708. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Warren_2016_JN.pdf)
+
+Murphy, P.R., van Moort, M., & Nieuwenhuis, S. (2016). The pupillary orienting response predicts adaptive behavioral adjustment after errors. PLOS ONE 11: e0151763. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Murphy_2016_PLOSONE.pdf)
+
+Tona, K.D., Murphy, P.R., Brown, S.B., & Nieuwenhuis, S. (2016). The accessory stimulus effect is mediated by phasic arousal: a pupillometry study. Psychophysiology, 53, 1108-1113. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tona_2016_Psychophys.pdf)
+
+Warren, C.M., Murphy, P.R., & Nieuwenhuis, S. (2016). Cognitive control, dynamic salience and the imperative toward computational accounts of neuromodulatory function. Behavioral and Brain Sciences, 39, e227. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Warren_BBS_commentary.pdf)
+
+Brown, S.B., Slagter, H.A., van Noorden, M.S., Giltay, E.J., van der Wee, N.J., & Nieuwenhuis, S. (2016). Effects of clonidine and scopolamine on multiple target detection in rapid serial visual presentation. Psychopharmacology, 233, 341-350. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Brown_2016_PP.pdf)
