@@ -265,3 +265,18 @@ Nieuwenhuis, S., Ridderinkhof, K.R., Blom, J., Band, G.P.H., & Kok (2001). Error
 Nieuwenhuis, S., Ridderinkhof, K.R., De Jong, R., Kok, A., & Van der Molen, M.W. (2000). Inhibitory inefficiency and failures of intention activation: Age-related decline in the control of saccadic eye movements. Psychology and Aging, 15, 635-647. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/nieuwenhuis_et_al_2000.pdf)
 
 Lorist, M..M., Klein, M., Nieuwenhuis, S., De Jong, R., Mulder, G., & Meijman, T.F. (2000). Mental fatigue and task control: Planning and preparation. Psychophysiology, 37, 614-625. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/lorist_et_al.pdf)
+
+
+Dutch publications
+------
+Nieuwenhuis, S. (2013). Het brein: een bron van onzekerheid. Inaugural lecture (oratie), 6 September 2013.[[booklet]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Oratie_gedrukt.pdf)
+
+van Nunspeet, F., Derks, B., Ellemers, N., & Nieuwenhuis, S. (2012). Willen, denken, doen: Een ERP-onderzoek naar de invloed van morele motieven op sociale categorisatie in een impliciete associatietest. In M. Stick, M. Baas, L. van Dillen, R. Dotsch, D. Lakens, & M. de Vries (Eds.) Jaarboek Sociale Psychologie 2012. Groningen: ASPO Pers.
+
+Wagenmakers, E.J., & Nieuwenhuis, S. (2005). Damasio’s error? De somatic marker hypothese onder vuur. Neuropraxis, nr. 6, 165-169. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/WagenmakersNeuropraxis.pdf)
+
+Nieuwenhuis, S. (2005). Foutendetectie in de menselijke hersenen. Neuropraxis, nr. 3, 59-63. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisNeuropraxis.pdf)
+
+Talsma, D., Slagter, H.A., & Nieuwenhuis, S. (2004). Het eerste Nederlandse event-related potentials kwartetspel. [[kwartetspel]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/AlbertKokKwartet.pdf) Ter gelegenheid van het emeritaat van prof. Albert Kok.
+
+Nieuwenhuis, S. & Olsthoorn, N. (1999). Stamboom van de Nederlandse Psychonomie. [[poster]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/stamboom.pdf)
