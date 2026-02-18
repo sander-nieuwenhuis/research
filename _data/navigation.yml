@@ -9,7 +9,7 @@
 
 main:
   - title: "Home"
-    url: "https://sander-nieuwenhuis.github.io/research/home/"
+    url: "https://sander-nieuwenhuis.github.io/research/athome/"
   
   - title: "Publications"
     url: "https://sander-nieuwenhuis.github.io/research/publications/"
