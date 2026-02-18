@@ -164,3 +164,14 @@ Nieuwenhuis, S., de Geus, E.J., & Aston-Jones, G. (2011). The anatomical and fun
 
 Nieuwenhuis, S., & Jepma, M. (2011). Investigating the role of the noradrenergic system in human cognition. In T. Robbins, M. Delgado, & E. Phelps (Eds.), Decision making. Attention & Performance, Vol. XXIII. Oxford: Oxford University Press, pp. 367-385. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisJepmaLC_Chapter.pdf)
 
+De Rover, M., van Noorden, M.S., Nieuwenhuis, S., & van der Wee, N.J. (2010). Cardiorespiratory arrest in a healthy volunteer after a single oral dose of 80 mg of the beta-blocker propranolol. Neurobiology of Learning and Memory, 94, 576-577. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NLM_commentary.pdf)
+
+Jepma, M., Te Beek, E.T., Wagenmakers, E.-J., Van Gerven, J.M., & Nieuwenhuis, S. (2010). The role of the noradrenergic system in the exploration-exploitation trade-off: A psychopharmacological study. Frontiers in Human Neuroscience, 4: 170. [[manuscript]](http://www.frontiersin.org/human_neuroscience/10.3389/fnhum.2010.00170/abstract)
+
+Colzato, L., Waszak, F., Nieuwenhuis, S., Posthuma, D., & Hommel, B. (2010). The flexible mind is associated with the catechol-O-methyltransferase (COMT) Val158Met polymorphism: Evidence for a role of dopamine in the control of task switching. Neuropsychologia, 48, 2764-2768. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Colzato2010.pdf)
+
+Gilzenrat, M.S., Nieuwenhuis, S., Jepma, M., & Cohen, J.D. (2010). Pupil diameter tracks changes in control state predicted by the adaptive gain theory of locus coeruleus function. Cognitive, Affective, & Behavioral Neuroscience, 10, 252-269. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/GilzenratNieuwenhuisJepmaCohen.pdf) (selected by the Psychonomic Society as “Best Article published in CABN in 2010”)
+
+Bogacz, R., Wagenmakers, E.-J., Forstmann, B.U., & Nieuwenhuis, S. (2010). The neural basis of the speed-accuracy tradeoff. Trends in Neurosciences, 33, 10-16. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/SATO_TINS.pdf)
+
+Nieuwenhuis, S., & de Rover, M. (2010). Event-related potentials. Encyclopedia of Psychopharmacology. Springer Verlag. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/EncyclopediaofPsychopharmacology.pdf)
