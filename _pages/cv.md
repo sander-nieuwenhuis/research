@@ -1,7 +1,8 @@
 ---
-permalink: /CV/
-author_profile: true
+permalink: /cv/
 layout: single
+author_profile: true
+title:  "CV"
 ---
 
 [[Click here to download my CV]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/CV_Nieuwenhuis.pdf)
