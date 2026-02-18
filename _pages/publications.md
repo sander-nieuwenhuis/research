@@ -52,7 +52,6 @@ van den Brink, R.L., Murphy, P.R., Desender, K., de Ru, N., & Nieuwenhuis, S. (2
 
 Tona, K.D., Revers, H., Verkuil, B., & Nieuwenhuis, S. (2020). Noradrenergic regulation of cognitive flexibility: no effects of stress, transcutaneous vagus nerve stimulation and atomoxetine on task-switching. Journal of Cognitive Neuroscience, 32, 1881-1895. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tona_2020_JOCN.pdf)
 
-
 Ásgeirsson, Á.G. & Nieuwenhuis, S. (2019). Effects of arousal on biased competition in attention and short-term memory. Attention, Perception, & Psychophysics, 81, 1901-1912. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/AsgeirssonNieuwenhuis_APP.pdf)
 
 Warren, C.M., Tona, K.D., Ouwerkerk, L., van Paridon, J., Poletiek, F., van Steenbergen, H., Bosch, J.A., & Nieuwenhuis, S. (2019). The neuromodulatory and hormonal effects of transcutaneous vagus nerve stimulation as evidenced by salivary alpha amylase, salivary cortisol, pupil diameter, and the P3 event-related potential. Brain Stimulation, 12, 635-642. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Warren_BrainStimulation.pdf)
@@ -135,3 +134,14 @@ Donner, T.H.. & Nieuwenhuis, S. (2013). Brain-wide gain modulation: the rich get
 
 Nieuwenhuis, S., Elzinga, B.M., Ras, P., Berends, F., Duijs, P, Samara, Z., & Slagter, H.A. (2013). Bilateral saccadic eye movements and tactile stimulation, but not auditory stimulation, enhance memory retrieval. Brain and Cognition, 81, 52-56. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAl_Bilateral.pdf)
 
+Dutilh, G., van Ravenzwaaij, D., Nieuwenhuis, S., van der Maas, H.L., Forstmann, B.U., & Wagenmakers, E.-J. (2012). How to measure post-error slowing: A confound and a simple solution. Journal of Mathematical Psychology, 56, 208-216. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Dutilh_PES.pdf)
+
+Nieuwenhuis, S., Jepma, M., & Wagenmakers, E.-J. Temporal expectation may affect the onset, not the rate, of evidence accumulation [electronic response to Rohenkohl, Cravo, Wyart, & Nobre (2012). Temporal expectation improves the quality of sensory information. Journal of Neuroscience, 32, 8424-8428] [[pdf including response to letter of Rohenkohl and colleagues]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/response_to_rohenkohl)[[link to J Neurosci page]](http://www.jneurosci.org/content/32/24/8424.long/reply#jneuro_el_109541)
+
+Brown, S., van Steenbergen, H., Band, G.P., de Rover, M., & Nieuwenhuis, S. (2012). Functional significance of the emotion-related late positive potential. Frontiers in Human Neuroscience, 6:33. [[manuscript]](http://www.frontiersin.org/human_neuroscience/10.3389/fnhum.2012.00033/abstract)
+
+Jepma, M., Verdonschot, R.G., van Steenbergen, H., Rombouts, S.A., & Nieuwenhuis, S. (2012). Neural mechanisms underlying the induction and relief of perceptual curiosity. Frontiers in Behavioral Neuroscience, 6:5. [[manuscript]](http://www.frontiersin.org/behavioral_neuroscience/10.3389/fnbeh.2012.00005/abstract)
+
+Jepma, M., Wagenmakers, E.-J., & Nieuwenhuis, S. (2012). Temporal expectation and information processing: A model-based analysis. Cognition, 122, 426-441. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Jepma_Cognition.pdf)
+
+De Rover, M., Brown, S.B., Boot, N., Hajcak, G., van Noorden, M.S., van der Wee, N.J., & Nieuwenhuis, S. (2012). Beta receptor-mediated modulation of the late positive potential in humans. Psychopharmacology, 219, 971-979. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/deRover_Psychopharmacol.pdf)
