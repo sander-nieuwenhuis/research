@@ -229,3 +229,19 @@ Nieuwenhuis, S.*, Nielen, M. *, Mol, N., Hajcak, G., & Veltman, D. (2005). Perfo
 Nieuwenhuis, S., Heslenfeld, D.J., Alting von Geusau, N.J., Mars, R.B., Holroyd, C.B., & Yeung, N. (2005). Activity in human reward-sensitive brain areas is strongly context dependent. NeuroImage, 25, 1302-1309. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAl2005NeuroImage.pdf)
 
 Olivers, C.N.L., & Nieuwenhuis, S. (2005). The beneficial effect of concurrent task-irrelevant mental activity on temporal attention. Psychological Science, 16, 265-269. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/OliversNieuwenhuisPsychScience.pdf)
+
+Nieuwenhuis, S., Broerse, A., Nielen, M.M.A., & De Jong, R. (2004). A goal activation approach to the study of executive function: An application to antisaccade tasks. Brain and Cognition, 56, 198-214. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisBroerseNielenDeJong.pdf)
+
+Ridderinkhof, K.R., Ullsperger, M., Crone, E.A., & Nieuwenhuis, S. (2004). The role of medial frontal cortex in cognitive control. Science, 306, 443-447. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/RidderinkhofUllspergerCroneNieuwenhuis.pdf)
+
+Nieuwenhuis, S., Holroyd C.B., Mol, N., & Coles, M.G.H. (2004). Reinforcement-related brain potentials from medial frontal cortex: Origins and functional significance. Neuroscience & Biobehavioral Reviews, 28, 441-448. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisHolroydMolColes_2004_Neurosci_Biobehav_Rev.pdf)
+
+Holroyd, C.B., Nieuwenhuis, S., Mars, R.B., & Coles, M.G.H. (2004). Anterior cingulate cortex, selection for action, and error processing. In: Cognitive Neuroscience of Attention (ed. M.I. Posner), pp. 219-231. New York: Guilford Press. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/HolroydNieuwenhuisMarsColes.pdf)
+
+Nieuwenhuis, S., Yeung, N., Holroyd, C.B., Schurger, A., & Cohen, J.D. (2004). Sensitivity of electrophysiological activity from medial frontal cortex to utilitarian and performance feedback. Cerebral Cortex, 14, 741-747. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisYeungHolroydSchurgerCohen_2004_CerebrCort.pdf)
+
+Holroyd C.B.*, Nieuwenhuis, S. *, Yeung, N., Nystrom, L.E., Mars, R.B., Coles, M.G.H., & Cohen, J.D. (2004). Dorsal anterior cingulate cortex shows fMRI response to internal and external error signals. Nature Neuroscience, 7, 497-498. (* = shared first authors) [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/HolroydNieuwenhuis_etal_2004_Nat_Neurosci.pdf) [[suppl material]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/SupplMaterial.pdf)
+
+Van der Veen, F.M., Nieuwenhuis, S., Crone, E.A., & Van der Molen, M.W. (2004). Cardiac and electro-cortical responses to performance feedback reflect different aspects of feedback processing. In: Errors, Conflicts and the Brain. Current Opinions on Performance Monitoring (eds. M. Ullsperger & M. Falkenstein), pp. 63-70. Leipzig: MPI of Cognitive Neuroscience. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/VanderVeenNieuwenhuisCroneVanderMolen.pdf)
+
+Nieuwenhuis, S., Yeung, N., & Cohen, J.D. (2004). Stimulus modality, perceptual overlap, and the Go/NoGo N2. Psychophysiology, 41, 157-160. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisYeungCohen2004.pdf)
