@@ -175,3 +175,10 @@ Gilzenrat, M.S., Nieuwenhuis, S., Jepma, M., & Cohen, J.D. (2010). Pupil diamete
 Bogacz, R., Wagenmakers, E.-J., Forstmann, B.U., & Nieuwenhuis, S. (2010). The neural basis of the speed-accuracy tradeoff. Trends in Neurosciences, 33, 10-16. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/SATO_TINS.pdf)
 
 Nieuwenhuis, S., & de Rover, M. (2010). Event-related potentials. Encyclopedia of Psychopharmacology. Springer Verlag. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/EncyclopediaofPsychopharmacology.pdf)
+
+Yeung, N., & Nieuwenhuis, S. (2009). Dissociating response conflict and error likelihood in anterior cingulate cortex. Journal of Neuroscience,29, 14506-14510. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/YeungNieuwenhuis_JN.pdf)
+
+Slagter, H.A., Lutz A., Greischar, L.L., Nieuwenhuis, S., & Davidson R.J. (2009). Theta phase synchrony and conscious target perception: Impact of intensive mental training. Journal of Cognitive Neuroscience, 29, 1536-1549. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/SlagterEtAl_JOCN.pdf)
+
+Jepma, M., Wagenmakers, E.-J., Band, G.P.H., & Nieuwenhuis, S. (2009). The effects of accessory stimuli on information processing: Evidence from electrophysiology and a diffusion-model analysis. Journal of Cognitive Neuroscience, 21, 847-864. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Jepma_JOCN.pdf)
+
