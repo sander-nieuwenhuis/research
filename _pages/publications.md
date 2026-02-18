@@ -206,3 +206,26 @@ Nieuwenhuis, S., Stins, J.F., Posthuma, D., Polderman, T.J.C., Boomsma, D.I., & 
 
 Olivers, C.N.L., & Nieuwenhuis, S. (2006). The beneficial effects of additional task load, positive affect, and instruction on the attentional blink. Journal of Experimental Psychology: Human Perception and Performance, 32, 364-379. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/OliversNieuwenhuisJEPHPP.pdf)
 
+Donkers, F.C.L., Nieuwenhuis, S., & Van Boxtel, G.J.M. (2005). Mediofrontal negativities to averted gains and losses in the absence of responding. Cognitive Brain Research, 25, 777-787. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/DonkersCBR.pdf)
+
+Nieuwenhuis, S., & Yeung, N. (2005). Neural mechanisms of attention and control: Losing our inhibitions? Nature Neuroscience, 8, 1631-1633. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisYeung2005NatNeurosci.pdf)
+
+Overbeek, T.J.M., Nieuwenhuis, S., & Ridderinkhof, K.R. (2005). Dissociable components of error processing: On the functional significance of the PE vis-à-vis the ERN/NE. Journal of Psychophysiology, 19, 319-329. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/OverbeekJOP.pdf)
+
+Mars, R.B., Coles, M.G.H., Grol, M.J., Holroyd, C.B., Nieuwenhuis, S., Hulstijn, W., & Toni, I. (2005). Neural dynamics of error processing in medial frontal cortex. NeuroImage, 28, 1007-1013. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Mars2005NeuroImage.pdf)
+
+Talsma, D., Slagter, H.A., Nieuwenhuis, S., Hage, J., & Kok, A. (2005). The orienting of visuospatial attention: An event-related brain potential study. Cognitive Brain Research, 25, 117-129. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/TalsmaCBR.pdf)
+
+Hajcak, G., Nieuwenhuis, S., Ridderinkhof, K.R., & Simons, R.F. (2005). Error-preceding brain activity: Robustness, temporal dynamics, and boundary conditions. Biological Psychology, 70, 67-78. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/HajcakNieuwenhuisRidderinkhofSimons2005.pdf)
+
+Nieuwenhuis, S., Gilzenrat, M.S., Holmes, B.D., & Cohen, J.D. (2005). The role of the locus coeruleus in mediating the attentional blink: A neurocomputational theory. Journal of Experimental Psychology: General, 134, 291-307. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAl2005JEPGEN.pdf)
+
+Nieuwenhuis, S., Aston-Jones, G., & Cohen, J.D. (2005). Decision making, the P3, and the locus coeruleus-norepinephrine system.Psychological Bulletin, 131, 510-532. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisAston-JonesCohen_PsychBull.pdf)
+
+Nieuwenhuis, S., Slagter, H., Alting von Geusau, N., Heslenfeld, D.J., & Holroyd, C.B. (2005). Knowing good from bad: Differential activation of human cortical areas by positive and negative outcomes. European Journal of Neuroscience, 21, 3161-3168. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Nieuwenhuis2005EJN.pdf)
+
+Nieuwenhuis, S.*, Nielen, M. *, Mol, N., Hajcak, G., & Veltman, D. (2005). Performance monitoring in obsessive-compulsive disorder. Psychiatry Research, 134, 111-122. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisNielenMolHajcakVeltman.pdf)
+
+Nieuwenhuis, S., Heslenfeld, D.J., Alting von Geusau, N.J., Mars, R.B., Holroyd, C.B., & Yeung, N. (2005). Activity in human reward-sensitive brain areas is strongly context dependent. NeuroImage, 25, 1302-1309. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAl2005NeuroImage.pdf)
+
+Olivers, C.N.L., & Nieuwenhuis, S. (2005). The beneficial effect of concurrent task-irrelevant mental activity on temporal attention. Psychological Science, 16, 265-269. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/OliversNieuwenhuisPsychScience.pdf)
