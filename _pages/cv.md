@@ -1,13 +1,9 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /CV/
 author_profile: true
-redirect_from:
-  - /resume
+layout: single
 ---
 
-{% include base_path %}
 
 <object data="../assets/CV_IliMa_2024.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../assets/CV_IliMa_2024.pdf">
