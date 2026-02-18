@@ -8,6 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: "Home"
+    url: "https://sander-nieuwenhuis.github.io/research/publications/"
+  
   - title: "Publications"
     url: "https://sander-nieuwenhuis.github.io/research/publications/"
 
