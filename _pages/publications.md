@@ -188,3 +188,15 @@ Nieuwenhuis, S., Jepma, M., La Fors, S., & Olivers, C.N.L. (2008). The role of t
 
 Colzato, L.S., Bajo, M.T., Van den Wildenberg, W., Paolieri, D., Nieuwenhuis, S., La Heij, W., & Hommel, B. (2008). How does bilingualism improve executive control? A comparison of active and reactive inhibition mechanisms. Journal of Experimental Psychology: Learning, Memory, and Cognition, 34, 302-312. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/ColzatoEtAl2008JEP-LMC.pdf)
 
+Ridderinkhof, K.R., Nieuwenhuis, S., & Braver, T.S. (2007). Medial frontal cortex function: An introduction and overview. Cognitive, Affective & Behavioral Neuroscience, 7, 261-265. (Introduction to Special Issue of CABN) [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/RidderinkhofEtAlCABN.pdf)
+
+Yeung, N., Ralph, J., & Nieuwenhuis, S. (2007). Drink alcohol and dim the lights: The impact of cognitive deficits on medial frontal cortex function. Cognitive, Affective & Behavioral Neuroscience, 7, 347-355. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/YeungEtAlCABN.pdf)
+
+Nieuwenhuis, S., Van Nieuwpoort, C., Veltman, D.J., & Drent, M.L. (2007). Effects of the noradrenergic agonist clonidine on temporal and spatial attention. Psychopharmacology, 193, 261-269.[[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAlPsychopharmacol.pdf)
+
+Nieuwenhuis, S., Schweizer, T.S., Mars, R.B., Botvinick, M.M., & Hajcak, G. (2007). Error-likelihood prediction in the medial frontal cortex: A critical evaluation. Cerebral Cortex, 17, 1570-1581. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAlCerebCort.pdf)
+
+Slagter, H.A., Lutz, A., Greischar, L.L., Francis, A.D., Nieuwenhuis, S., Davis, J., & Davidson, R.J. (2007). Mental training affects distribution of limited brain resources. PLoS Biology, 5, e138. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/SlagterEtAl.pdf)
+
+Yeung, N., Bogacz, R., Holroyd, C.B., Nieuwenhuis, S., & Cohen, J.D. (2007). Theta phase-resetting and the error-related negativity. Psychophysiology, 44, 39-49. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/YeungPsychophys.pdf)
+
