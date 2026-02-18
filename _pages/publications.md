@@ -42,5 +42,14 @@ Lloyd, B., Wurm, F., de Kleijn, R., & Nieuwenhuis, S. (2023). Short-term transcu
 
 Lloyd, B., de Voogd, L.D., Mäki-Marttunen, V., & Nieuwenhuis, S. (2023). Pupil size reflects activation of subcortical ascending arousal system nuclei during rest. eLife, 12: e84822. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Lloyd2023eLife.pdf)
 
+Giraudier, M., Ventura-Bort, C., Burger, A. M., Claes, N., D’Agostini, M., Fischer, R., Franssen, M., Kaess, M., Koenig, J., Liepelt, R., Nieuwenhuis, S., Sommer, A., Usichenko, T., Van Diest, I., von Leupoldt, A., Warren, C. M., & Weymar, M. (2022). Evidence for a modulating effect of transcutaneous auricular vagus nerve stimulation (taVNS) on salivary alpha-amylase as indirect noradrenergic marker: A pooled mega-analysis. Brain Stimulation, 15(6), 1378–1388.[[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Giraudier_2022.pdf)
+
+Tromp, J., Nieuwenhuis, S., & Murphy, P. (2022). The effects of neural gain on reactive cognitive control. Computational Brain & Behavior, 5(3), 422–433. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp_2022.pdf)
+
+Scheffer, M., Borsboom, D., Nieuwenhuis, S., & Westley, F. (2022). Belief traps: Tackling the inertia of harmful beliefs. Proceedings of the National Academy of Sciences of the United States of America, 119(32), e2203149119. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/SchefferPNAS.pdf)
+
+van den Brink, R.L., Murphy, P.R., Desender, K., de Ru, N., & Nieuwenhuis, S. (2021). Temporal expectation hastens decision onset but does not affect evidence quality. Journal of Neuroscience, 41, 130-143. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/vandenBrink_2021.pdf)
+
+Tona, K.D., Revers, H., Verkuil, B., & Nieuwenhuis, S. (2020). Noradrenergic regulation of cognitive flexibility: no effects of stress, transcutaneous vagus nerve stimulation and atomoxetine on task-switching. Journal of Cognitive Neuroscience, 32, 1881-1895. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tona_2020_JOCN.pdf)
 
 
