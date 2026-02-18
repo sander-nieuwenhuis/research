@@ -182,3 +182,9 @@ Slagter, H.A., Lutz A., Greischar, L.L., Nieuwenhuis, S., & Davidson R.J. (2009)
 
 Jepma, M., Wagenmakers, E.-J., Band, G.P.H., & Nieuwenhuis, S. (2009). The effects of accessory stimuli on information processing: Evidence from electrophysiology and a diffusion-model analysis. Journal of Cognitive Neuroscience, 21, 847-864. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Jepma_JOCN.pdf)
 
+Keizer, A.W., Nieuwenhuis, S., Colzato, L.S., Teeuwisse, W., Rombouts, S.A.R.B., & Hommel, B. (2008). When moving faces activate the house area: an fMRI study of object file retrieval. Behavioral and Brain Functions, 4:50. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Keizer2008BBF.pdf)
+
+Nieuwenhuis, S., Jepma, M., La Fors, S., & Olivers, C.N.L. (2008). The role of the magnocellular and parvocellular pathways in the attentional blink. Brain and Cognition, 68, 42-48. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/NieuwenhuisEtAlInPressBC.pdf)
+
+Colzato, L.S., Bajo, M.T., Van den Wildenberg, W., Paolieri, D., Nieuwenhuis, S., La Heij, W., & Hommel, B. (2008). How does bilingualism improve executive control? A comparison of active and reactive inhibition mechanisms. Journal of Experimental Psychology: Learning, Memory, and Cognition, 34, 302-312. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/ColzatoEtAl2008JEP-LMC.pdf)
+
