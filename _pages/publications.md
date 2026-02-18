@@ -79,7 +79,6 @@ de Gee, J.W., Colizoli, O., Kloosterman, N., Knapen, T., Nieuwenhuis, S., & Donn
 
 Warren, C.M., van den Brink, R.L., Nieuwenhuis, S., & Bosch, J.A. (2017). Norepinephrine transporter blocker atomoxetine increases salivary alpha amylase. Psychoneuroendocrinology, 78, 233-236. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Warren_PNEC.pdf)
 
-
 Murphy, P.R., Boonstra, E., & Nieuwenhuis, S. (2016). Global gain modulation generates time-dependent urgency during perceptual choice in humans. Nature Communications, 7, 13526. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Murphy_NatComm.pdf)
 
 Jepma, M., Murphy, P., Nassar, M.R., Rangel-Gomez, M., Meeter, M., & Nieuwenhuis, S. (2016). Catecholaminergic regulation of learning rate in a dynamic environment. PLoS Computational Biology 12: e1005171. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Jepma_PLoSCB.pdf)
@@ -118,3 +117,10 @@ Brown, S.B., Tona, K.D., van Noorden, M.S., Giltay, E.J., van der Wee, N.J., & N
 
 Matzke, D., Nieuwenhuis, S., van Rijn, H., Slagter, H.A., van der Molen, M.W., & Wagenmakers, E.-J. (2015). The effect of horizontal eye movements on free recall: A preregistered adversarial collaboration. Journal of Experimental Psychology: General, 144, e1-e15. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Matzke_JEPG.pdf)
 
+Murphy, P., Vandekerckhove, J., & Nieuwenhuis, S. (2014). Pupil-linked arousal determines variability in perceptual decision making. PLoS Computational Biology, 10: e1003854. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Murphy_PLOS.pdf)
+
+van den Brink, R.L. Wynn, S., & Nieuwenhuis, S. (2014). Post-error slowing as a consequence of disturbed low-frequency oscillatory phase entrainment. Journal of Neuroscience, 34, 11096-11105.[[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/vandenBrink_JN.pdf)
+
+Brown, S., van Steenbergen, H., Kedar, T., & Nieuwenhuis, S. (2014). Effects of arousal on cognitive control: Empirical tests of the conflict-modulated Hebbian-learning hypothesis. Frontiers in Human Neuroscience, 8:23. [[manuscript]](http://www.frontiersin.org/Journal/10.3389/fnhum.2014.00023/abstract)
+
+Van Nunspeet, F., Ellemers, N., Derks, B., & Nieuwenhuis, S. (2014). Moral concerns increase attention and response monitoring during IAT performance: ERP evidence. Social Cognitive and Affective Neuroscience, 9, 141-149. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/vanNunspeet_SCAN.pdf)
