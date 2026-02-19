@@ -10,3 +10,5 @@ title:  "CV"
     <embed src="https://sander-nieuwenhuis.github.io/research/assets/pdfs/CV_Nieuwenhuis.pdf">
     </embed>
 </object>
+
+[Click here to download my CV](https://sander-nieuwenhuis.github.io/research/assets/pdfs/CV_Nieuwenhuis.pdf)
