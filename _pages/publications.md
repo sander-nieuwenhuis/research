@@ -8,7 +8,7 @@ title:  "Publications"
 Preprints & forthcoming
 ------
 Johnson, P. A., Nieuwenhuis, S., Mejías, J., & Urai, A. E. (in preparation). A dynamical systems model of arousal-driven behavioural state transitions.
-3
+
 Tromp, J., Nieuwenhuis, S., Cohen, J. D., & Jongkees, B. J. (submitted). A normative account of the trade-off between cognitive stability and flexibility. [[preprint]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp2025PsyrXiv.pdf)
 
 Kolnes, M. & Nieuwenhuis, S. (submitted). Arousal does not enhance the dominant spatial scope of attention. [[preprint]](https://osf.io/preprints/psyarxiv/3xeyb_v1)
