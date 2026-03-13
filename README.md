@@ -1,3 +1,5 @@
+Homepage, publications and CV of Sander Nieuwenhuis, cognitive neuroscientist at Leiden University
+
 We examine how moment-to-moment fluctuations in arousal and attention affect brain and cognition. There are 3 main themes:
 
 - The role of the locus coeruleus-norepinephrine system in human cognition
