@@ -16,7 +16,7 @@ Kolnes, M. & Nieuwenhuis, S. (submitted). Arousal does not enhance the dominant 
 
 Published
 ------
-Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (2025). Phasic alertness generates urgency and amplifies competition between evidence accumulators. Journal of Neuroscience, 45, e1595242025. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp2025JN.pdf)
+Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (2025). Phasic alertness impairs cognitive control by amplifying competition between evidence accumulators. Journal of Neuroscience, 45, e1595242025. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp2025JN.pdf)
 
 Lloyd, B., Miletić, S., & Nieuwenhuis, S. (2025). Pupil-linked arousal counteracts the positive effects of reward anticipation on incidental memory encoding. Cognition, 264, 106237. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/LloydCognition.pdf)
 
@@ -34,7 +34,7 @@ Lloyd, B. & Nieuwenhuis, S. (2024). The effect of reward-induced arousal on the 
 
 Lucchi, F., Lloyd, B., & Nieuwenhuis, S. (2024). Non-invasive vagus nerve stimulation and the motivation to work for rewards: A replication of Neuser et al. (2020, Nature Communications). Psychophysiology, 61: e14484. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Lucchi_Lloyd_etal_2024.pdf)
  
-Kolnes, M., Uusberg, A., & Nieuwenhuis, S. (2024). Broadening of attention dilates the pupil.Attention, Perception, & Psychophysics, 86, 146-158. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Kolnes_APP_def.pdf)
+Kolnes, M., Uusberg, A., & Nieuwenhuis, S. (2024). Broadening of attention dilates the pupil. Attention, Perception, & Psychophysics, 86, 146-158. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Kolnes_APP_def.pdf)
 
 Mäki-Marttunen, V., Kies, D.A., Pijpers, J.A., Louter, M.A., van der Wee, N.J., Rombouts, S.A., Nieuwenhuis, S., Kruit, M. & Terwindt, G.M. (2023). Functional connectivity of the visual cortex in chronic migraine before and after medication withdrawal therapy. Neuroimage: Clinical, 40, 103543. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Marttunen_NIClinical.pdf)
 
