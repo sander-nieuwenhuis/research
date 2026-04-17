@@ -16,7 +16,7 @@ Kolnes, M. & Nieuwenhuis, S. (submitted). Arousal does not enhance the dominant 
 
 Published
 ------
-Kolnes, M. & Nieuwenhuis, S. (in press). Pulsed taVNS-elicited pupil dilation: effects of intermixed stimulation, sham location and respiratory phase. Psychophysiology. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Kolnes2026Psyp.pdf)
+Kolnes, M. & Nieuwenhuis, S. (2026). Pulsed taVNS-elicited pupil dilation: effects of intermixed stimulation, sham location and respiratory phase. Psychophysiology, 63, e70302. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Kolnes2026Psyp.pdf)
 
 Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (2025). Phasic alertness impairs cognitive control by amplifying competition between evidence accumulators. Journal of Neuroscience, 45, e1595242025. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp2025JN.pdf)
 
