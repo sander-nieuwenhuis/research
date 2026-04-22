@@ -5,7 +5,7 @@ author_profile: true
 title:  "Home"
 ---
 
-## Welcome to my lab
+## Welcome to my lab at [[Leiden University]](https://www.universiteitleiden.nl/en/staffmembers/sander-nieuwenhuis)
 We examine how moment-to-moment fluctuations in arousal and attention affect brain and cognition. There are 3 main themes:
 
 - The role of the locus coeruleus-norepinephrine system in human cognition
