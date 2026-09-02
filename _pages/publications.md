@@ -11,11 +11,11 @@ Johnson, P. A., Nieuwenhuis, S., Mejías, J., & Urai, A. E. (in preparation). A 
 
 Tromp, J., Nieuwenhuis, S., Lucchi, F., Cohen, J. D., & Jongkees, B. J. (submitted). A normative account of the trade-off between cognitive stability and flexibility. [[preprint]](https://osf.io/preprints/psyarxiv/5rx9v_v2)
 
-Kolnes, M. & Nieuwenhuis, S. (submitted). Arousal does not enhance the dominant spatial scope of attention. [[preprint]](https://osf.io/preprints/psyarxiv/3xeyb_v1)
-
 
 Published
 ------
+Kolnes, M. & Nieuwenhuis, S. (2026). Arousal does not enhance the dominant spatial scope of attention, 88: 184. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/KolnesNieuwenhuis2026APP.pdf)
+
 Kolnes, M. & Nieuwenhuis, S. (2026). Pulsed taVNS-elicited pupil dilation: effects of intermixed stimulation, sham location and respiratory phase. Psychophysiology, 63, e70302. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Kolnes2026Psyp.pdf)
 
 Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (2025). Phasic alertness impairs cognitive control by amplifying competition between evidence accumulators. Journal of Neuroscience, 45, e1595242025. [[manuscript]](https://sander-nieuwenhuis.github.io/research/assets/pdfs/Tromp2025JN.pdf)
